@@ -1,0 +1,12 @@
+id: d79d96c6-160e-4ae3-8675-4cf84c5c70dd
+name: browse
+type: state
+description: Example of a Browse state for the scenario
+transitions: []
+annotations:
+- namespace: c4modeler
+  name: position
+  value:
+    code:
+      x: 227.5
+      y: 25

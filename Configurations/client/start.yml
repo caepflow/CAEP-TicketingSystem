@@ -1,0 +1,15 @@
+id: 3dca0491-8241-4aa7-bfba-66466dc367f6
+name: start
+type: state
+description: Example of a Start state for the scenario
+start: true
+transitions:
+- target: d79d96c6-160e-4ae3-8675-4cf84c5c70dd
+  name: browse
+annotations:
+- namespace: c4modeler
+  name: position
+  value:
+    code:
+      x: 7.1136363636363615
+      y: 27.863636363636367

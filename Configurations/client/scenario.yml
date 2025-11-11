@@ -1,0 +1,17 @@
+id: 80a49d76-d9d9-42da-88eb-653bd703bdc1
+name: Scenario
+type: scenario
+description: Example of scenario
+namespace: Ca.CaepFlow.Domain.Scenario
+children:
+- id: 3dca0491-8241-4aa7-bfba-66466dc367f6
+  type: state
+- id: d79d96c6-160e-4ae3-8675-4cf84c5c70dd
+  type: state
+annotations:
+- namespace: c4modeler
+  name: position
+  value:
+    component:
+      x: 140.5
+      y: 582.5

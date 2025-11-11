@@ -1,0 +1,7 @@
+id: f662f242-6a76-4cee-91ca-c78a3ad66f21
+name: ServiceData
+type: data
+description: Example of a data object
+children:
+- id: e2f0e246-0109-4d6f-82e0-2aea16479638
+  type: entity
